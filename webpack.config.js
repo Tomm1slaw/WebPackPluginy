@@ -47,6 +47,6 @@ const enviroment = env || 'production';
         }
       ]
     },
-    plugins,
+    plugins
   }
 };

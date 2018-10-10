@@ -1,0 +1,11 @@
+ol {
+	padding: 0;
+}
+ol li {
+	text-align: center;
+    text-transform: uppercase;
+}
+ol li:hover {
+	color: blue;
+	cursor: pointer;
+}
